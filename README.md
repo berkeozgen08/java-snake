@@ -1,3 +1,3 @@
 # java-snake
 
-Snake game made in Java.
+There are 2 things I love the most, snake and Java.
